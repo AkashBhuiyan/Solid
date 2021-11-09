@@ -1,6 +1,6 @@
 package ocp;
 
-public class OcpExample {
+public class OcpViolationExample {
     public void sendOTP(String medium){
         if(medium.equals("email")){
             System.out.println(medium);
