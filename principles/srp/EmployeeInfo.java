@@ -2,12 +2,12 @@ package srp;
 
 import java.math.BigDecimal;
 
-public class EmployeInfo {
+public class EmployeeInfo {
     private final String name;
     private final BigDecimal hourlyRate;
     private BigDecimal hourWorked = BigDecimal.ZERO;
 
-    public EmployeInfo(String name, BigDecimal hourlyRate){
+    public EmployeeInfo(String name, BigDecimal hourlyRate){
         this.name = name;
         this.hourlyRate = hourlyRate;
     }
