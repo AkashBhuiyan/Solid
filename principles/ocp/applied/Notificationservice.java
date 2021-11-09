@@ -1,4 +1,4 @@
-package ocp;
+package ocp.applied;
 
 public interface Notificationservice {
 

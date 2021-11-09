@@ -1,4 +1,4 @@
-package ocp;
+package ocp.applied;
 
 public class SendNotification {
     public void sendNotification(NotificationClassification notificationClassification){

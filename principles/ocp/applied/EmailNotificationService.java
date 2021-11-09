@@ -1,4 +1,4 @@
-package ocp;
+package ocp.applied;
 
 public class EmailNotificationService implements Notificationservice {
     public void sendOTP(String medium) {
